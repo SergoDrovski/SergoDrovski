@@ -3,7 +3,7 @@
 <table>
 <tr>
   <td>
-    <img src="mona-whisper.gif" alt=""/>
+
   </td>
   <td> I am a frontend developer JS/TS with over 3 years of experience.
   </td>
