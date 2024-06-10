@@ -24,7 +24,8 @@
   Vite, React, Redux, reduxjs/toolkit)
 + [To-Do list](https://sergodrovski.github.io/redux-fundamentals-example/), [git](https://github.com/SergoDrovski/redux-fundamentals-example), (
   Vite, React, Redux, react-router)
-  
++ [Web Game Of Fifteen](https://sergodrovski.github.io/GameOfFifteen/), [git](https://github.com/SergoDrovski/GameOfFifteen)
+
 </td>
 </tr>
 </table>
