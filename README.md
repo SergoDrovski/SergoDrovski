@@ -22,7 +22,9 @@
 
 + [Game Lotto](https://sergodrovski.github.io/widget-loto/), [git](https://github.com/SergoDrovski/widget-loto/tree/dev), (
   Vite, React, Redux, reduxjs/toolkit)
-
++ [To-Do list](https://sergodrovski.github.io/redux-fundamentals-example/), [git](https://github.com/SergoDrovski/redux-fundamentals-example), (
+  Vite, React, Redux, react-router)
+  
 </td>
 </tr>
 </table>
