@@ -31,6 +31,6 @@
 
 <div align="center" >
 
-<img src="skill-bar.png" width="800" height="500">
+<!--<img src="skill-bar.png" width="800" height="500">-->
 
 </div>
